@@ -1,15 +1,17 @@
-Carte véloroutes
-================
+Cartes véloroutes
+=================
 
 .. note::
     Page en construction.
 
-Vélo & Territoires anime, avec le soutien du Ministère de la transition écologique et de la cohésion des territoires, `L'Observatoire national des véloroute <https://www.velo-territoires.org/observatoires/observatoire-national-des-veloroutes-et-voies-vertes/>`_ qui vise à suivre l'évolution des véloroutes et notamment l'avancement de leur réalisation. Toutes les véloroutes sont concernées, de l'EuroVelo à l'itinéraire départemental. Les données proviennent des collectivités contributrices, elles sont mises en qualité et en cohérence par Vélo & Territoires, puis diffusées sur Velodatamap.
+Le Réseau vélo et marche anime, avec le soutien du Ministère de la transition écologique et de la cohésion des territoires, `L'Observatoire national des véloroutes <https://www.velo-territoires.org/observatoires/observatoire-national-des-veloroutes-et-voies-vertes/>`_ qui vise à suivre l'évolution des véloroutes et notamment l'avancement de leur réalisation. Toutes les véloroutes sont concernées, du niveau européen au départemental. Les données proviennent des collectivités contributrices, elles sont mises en qualité et en cohérence par le Réseau vélo et marche, puis diffusées sur Velodatamap.
 
 La carte « Véloroutes » a deux utilités principales :
 
 - **visualiser** les véloroutes et interroger les données à une échelle fine (accessible sans compte) ;
 - **diffuser** les données via du téléchargement ponctuel (accessible sans compte) ou directement auprès de partenaires sélectionnés (France Vélo Tourisme, etc.)
+
+Un **webinaire** de présentation de cette carte s'est tenu en octobre 2024, dont vous pouvez visionner l'enregistrement `ici <https://www.velo-territoires.org/ressources/videotheque/explorer-et-telecharger-les-donnees-de-lobservatoire-national-des-veloroutes/>`_.
 
 Structure des données
 ---------------------
@@ -28,7 +30,7 @@ Une quatrième donnée vient compléter la description des véloroutes :
 
 Interroger des données
 ---------------------
-La carte Véloroutes présente les 4 données décrites ci-dessus, chacune étant matérialisée par une couche sur la carte, à l'exception de la données segment cyclable. Cette dernière propose en effet 3 représentations différentes et complémentaires (et donc 3 couches sur la carte) pour répondre au mieux aux de différents besoins visualisation des utilisateurs.
+Les cartes Véloroutes présentent les 4 données décrites ci-dessus, chacune étant matérialisée par une couche sur la carte, à l'exception de la données segment cyclable. Cette dernière propose en effet 3 représentations différentes et complémentaires (et donc 3 couches sur la carte) pour répondre au mieux aux de différents besoins visualisation des utilisateurs.
 
 
 Pour savoir comment interroger, filtrer ou télécharger les données, lisez la page des :ref:`Fonctionnalités générales`.

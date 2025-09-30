@@ -13,7 +13,7 @@ Cette carte présente deux jeux de données produits selon les spécifications d
  - en rose, les données publiées par les collectivités territoriales au `Point d'Accès National aux données de transport <https://transport.data.gouv.fr/datasets?type=bike-way>`_.
 
 
-L'agrégation des deux sources de données est effectuée par Vélo & Territoires chaque année.
+L'agrégation des deux sources de données est effectuée par le Réseau vélo et marche chaque année.
 
 Un module spécial, accessible en cliquant sur |amenagements|, permet d'obtenir des statistiques (linéaire réalisé, linéaire de voies vertes...) à tout échelon territorial, des régions jusqu'aux EPCI :
 
